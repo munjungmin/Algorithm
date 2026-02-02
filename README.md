@@ -16,5 +16,5 @@
 
 | 유형 | 문제 번호 |
 |------|-----------|
-| 완전탐색 (Brute Force) | [1816](baekjoon/1816.py)|
+| 완전탐색 (Brute Force) | [1816](baekjoon/1816.py) [19532](baekjoon/19532.py) [2503](baekjoon/2503.py) [14568](baekjoon/14568.py)|
 | |
