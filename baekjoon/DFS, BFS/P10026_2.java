@@ -72,3 +72,19 @@ public class P10026_2 {
         System.out.println(cnt + " " + cnt2);
     }
 }
+
+/* 
+
+시간복잡도 분석  
+    LinkedList 삽입/삭제 O(1)
+
+    NxN 크기의 map 
+    bfs()는 방문 안한 칸 하나를 시작으로 연결된 영역 모두 탐색
+    marked[][]로 중복 방지하여 각 칸을 최대 1회 방문
+
+    그래프를 두번 순회하므로 O(2N^2) -> O(N^2)
+
+
+static 변수 선언 
+    Scope -> 모든 메서드가 접근 가능해 bfs, dfs에서 쉽게 공유 가능 
+  */
