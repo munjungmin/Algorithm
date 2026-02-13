@@ -20,3 +20,4 @@
 | 수학 | [15736](baekjoon/15736.py) [1407](baekjoon/1407.py) [2559](baekjoon/2559.py) |
 | 다이나믹 프로그래밍 | [1912](baekjoon/1912.py) [11660](baekjoon/11660.py) |
 | 구현 | [2304](baekjoon/2304.py) [14719](baekjoon/14719.py) |
+| 누적 합 | [3020](baekjoon/3020.py) |
