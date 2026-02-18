@@ -21,4 +21,4 @@
 | 다이나믹 프로그래밍 | [1912](baekjoon/1912.py) [11660](baekjoon/11660.py) |
 | 구현 | [2304](baekjoon/2304.py) [14719](baekjoon/14719.py) |
 | 누적 합 | [3020](baekjoon/3020.py) |
-| 백트래킹 | [15649](baekjoon/15649.py) [15650](baekjoon/15650.py) [15651](baekjoon/15651.py) [15652](baekjoon/15652.py) [15654](baekjoon/15654.py) [15655](baekjoon/15655.py) |
+| 백트래킹 | [15649](baekjoon/15649.py) [15650](baekjoon/15650.py) [15651](baekjoon/15651.py) [15652](baekjoon/15652.py) [15654](baekjoon/15654.py) [15655](baekjoon/15655.py) [15656](baekjoon/15656.py) |
